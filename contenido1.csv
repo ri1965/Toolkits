@@ -1,0 +1,10 @@
+leg,nombre_vendedor,apellido_vendedor,sucursal,provincia,total_venta
+100,Pedro,Gomez,101,C—rdoba,10000
+200,Jose,Garcia,250,C—rdoba,25000
+300,Luis,Perez,180,BA,15000
+400,Raquel,Bermœdez,180,BA,35000
+500,Josefina,Paccini,234,Rosario,42500
+600,Roberto,Carlos,101,C—rdoba,12000
+700,Ryan,Reynolds,404,BA,28000
+800,Martin,King,303,BA,13000
+900,Pancho,Mostaza,245,BA,23000
